@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        table, th, td {
+          border: 2px solid black;
+          border-collapse: collapse;
+        }
+        h4{
+            text-align: center;
+        }
+        </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kartu Keluarga</title>
+</head>
+<body bgcolor="#d6e9f6">
+    <br><img src="garuda.jpeg" width="100" height="100" align="left" hspace="20" vspace="20"><br>
+    <h1 align="center">KARTU KELUARGA</h1>
+    <p><h3 align="center">No. 123456789012345</h3><br>
+        <table style="width: 130%;">
+            <tr>
+                <th align="center">No</th>
+                <th align="center">Nama Lengkap</th>
+                <th align="center">NIK</th>
+                <th align="center">Jenis <br> Kelamin</p></th>
+                <th align="center">Tempat Lahir</th>
+                <th align="center">Tanggal <br>Lahir</p></th>
+                <th align="center">Agama</th>
+                <th align="center">Pendidikan</th> 
+                <th align="center">Jenis Pekerjaan</th>
+                <th align="center">Golongan <br>Darah</p></th>
+            </tr>
+            <tr>
+                <td></td>
+                <td align="center">(1)</td>
+                <td align="center">(2)</td>
+                <td align="center">(3)</td>
+                <td align="center">(4)</td>
+                <td align="center">(5)</td>
+                <td align="center">(6)</td>
+                <td align="center">(7)</td>
+                <td align="center">(8)</td>
+                <td align="center">(9)</td>
+            </tr>
+            <tr>
+                <td align="center">1</td>
+                <td>AYAH</td>
+                <td>123456789012345</td>
+                <td>LAKI-LAKI</td>
+                <td>TRENGGALEK</td>
+                <td align="center">01-01-1980</td>
+                <td>ISLAM</td>
+                <td>DIPLOMA IV/STARTA 1</td>
+                <td>WIRASWASTA</td>
+                <td>TIDAK TAHU</td>
+            </tr>
+            <tr>
+                <td align="center">2</td>
+                <td>IBU</td>
+                <td>123456789012345</td>
+                <td>PEREMPUAN</td>
+                <td>TRENGGALEK</td>
+                <td align="center">01-01-1980</td>
+                <td>ISLAM</td>
+                <td>DIPLOMA IV/STARTA 1</td>
+                <td>PNS</td>
+                <td>TIDAK TAHU</td>
+            </tr>
+            <tr>
+                <td align="center">3</td>
+                <td>SAYA</td>
+                <td>123456789012345</td>
+                <td>PEREMPUAN</td>
+                <td>TRENGGALEK</td>
+                <td align="center">01-01-2000</td>
+                <td>ISLAM</td>
+                <td>SEKOLAH</td>
+                <td>PELAJAR/MAHASISWA</td>
+                <td>B</td>
+            </tr>
+            <tr>
+                <td align="center">4</td>
+                <td>ADEK</td>
+                <td>123456789012345</td>
+                <td>LAKI-LAKI</td>
+                <td>TRENGGALEK</td>
+                <td align="center">01-01-2000</td>
+                <td>ISLAM</td>
+                <td>SEKOLAH</td>
+                <td><PELAJAR>
+                <MAHASISWA></MAHASISWA></td>
+                <td>TIDAK TAHU</td>
+            </tr>
+            <tr>
+                <td align="center">5</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td align="center">6</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td align="center">7</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td align="center">8</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr><tr>
+                <td align="center">9</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td align="center">10</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+        </tr>
+    </table><br>
+<table style="width: 130%;">
+    <tr>
+        <th rowspan="2" align="center">No.</th>
+        <th rowspan="2" align="center">Status <br>Perkawinan</th>
+        <th rowspan="2" align="center">Tanggal <br>Perkawinan</th>
+        <th rowspan="2" align="center">Status Hubungan <br>Dalam Keluarga</th>
+        <th rowspan="2" align="center">Kewarganegaraan</th>
+        <th colspan="2" align="center">Dokumen Imigrasi</th>
+        <th colspan="2" align="center">Nama Orang Tua</th>
+    </tr>
+    <tr>
+        <td align="center">No. Paspor</td>
+        <td align="center">No. KITAP</td>
+        <td align="center">Ayah</td>
+        <td align="center">Ibu</td>
+    </tr>
+    <tr>
+        <td></td>
+            <td align="center">(10)</td>
+            <td align="center">(11)</td>
+            <td align="center">(12)</td>
+            <td align="center">(13)</td>
+            <td align="center">(14)</td>
+            <td align="center">(15)</td>
+            <td align="center">(16)</td>
+            <td align="center">(17)</td>
+        </tr>
+        <tr>
+            <td align="center">1</td>
+            <td>KAWIN TERCATAT</td>
+            <td>01-01-2000</td>
+            <td>KEPALA KELUARGA</td>
+            <td>WNI</td>
+            <td>-</td>
+            <td>-</td>
+            <td>AYAH</td>
+            <td>IBU</td>
+        </tr>
+        <tr>
+            <td align="center">2</td>
+            <td>KAWIN TERCATAT</td>
+            <td>01-01-2000</td>
+            <td>ISTRI</td>
+            <td>WNI</td>
+            <td>-</td>
+            <td>-</td>
+            <td>AYAH</td>
+            <td>IBU</td>
+        </tr>
+        <tr>
+            <td align="center">3</td>
+            <td>BELUM KAWIN</td>
+            <td>-</td>
+            <td>ANAK</td>
+            <td>WNI</td>
+            <td>-</td>
+            <td>-</td>
+            <td>AYAH</td>
+            <td>IBU</td>
+        </tr>
+        <tr>
+            <td align="center">4</td>
+            <td>BELUM KAWIN</td>
+            <td>-</td>
+            <td>ANAK</td>
+            <td>WNI</td>
+            <td>-</td>
+            <td>-</td>
+            <td>AYAH</td>
+            <td>IBU</td>
+        </tr>
+        <tr>
+            <td align="center">5</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td align="center">6</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td align="center">7</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td align="center">8</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td align="center">9</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td align="center">10</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+    </table>
+</body>
+</html>
