@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <table width="50%" border="1" cellpadding="5px" style="border-collapse: collapse;">
+        <thead>
+            <tr>
+                <th width="10%" rowspan="3">NIS</th>
+                <th width="20%" rowspan="3">NAMA</th>
+                <th width="70%" colspan="9">BULAN</th>
+            </tr>
+            <tr>
+                <th colspan="3">Januari</th>
+                <th colspan="3">Februari</th>
+                <th colspan="3">Maret</th>
+            </tr>
+        </thead>
+        <body>
+            <tr>
+                <td>111</td>
+                <td>Mountti</td>
+                <td>111</td>
+                <td>111</td>
+                <td>111</td>
+                <td>111</td>
+                <td>111</td>
+                <td>111</td>
+                <td>111</td>
+                <td>111</td>
+                <td>111</td>
+            </tr>
+
+            <tr>
+                <td>111</td>
+                <td>Vania</td>
+                <td>111</td>
+                <td>111</td>
+                <td>111</td>
+                <td>111</td>
+                <td>111</td>
+                <td>111</td>
+                <td>111</td>
+                <td>111</td>
+                <td>111</td>
+            </tr>
+        </body>
+    </table>
+</html>
