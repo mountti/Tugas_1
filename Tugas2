@@ -1,0 +1,36 @@
+<!DOCTYPE html html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title></title>
+    </head>
+    <body>
+        <center><h1>Resep Kue Maryam</h1></center>
+        <img src="maryam.jpeg" alt="Maryam" height="200" width="200" align="right" hspace="30" vspace="30">
+        
+
+        <b>Bahan bahan</b>
+        <ul>
+            <li>250gr tepung terigu</li>
+            <li>1 butir telur</li>
+            <li>3 sdm margarin, lelehkan</li>
+            <li>100ml air hangat</li>
+            <li>2 sdm susu bubuk (optional)</li>
+            <li>1/2 sdt garam</li>
+            <li>margarin leleh untuk olesan</li>
+            <li>minyak untuk merendam</li>
+        </ul> </p>
+        <hr>
+        <h3>Langkah - langkah</h3>
+        <ol> 
+            <li>Campur semua bahan roti jadi satu</li>
+            <img src="langkah111.jpg" height="100" width="100">
+
+            <li>Uleni sampai kalis (aku pake tangan) jangan takut jika adonan lengket ya, lumuri tangan sesekali dengan tepung (tapi jangan menambahkan tepung) uleni terus sampai adonan kalis</li>
+            <img src="langkah2.jpg" height="100" width="100">
+
+            <li>Kalisnya adonan canai tidak sekalis adonan roti ya, kira - kira seperti ini sudah cukup3</li>
+            <img src="langkah3.jpg" height="100" width="100">
+        </ol>
+    </body>
+</html>    
